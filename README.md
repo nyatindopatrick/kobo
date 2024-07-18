@@ -19,7 +19,7 @@ cd kobo
 3. Run the installation script
 
 ```bash
-bash install.sh
+sudo install.sh
 ```
 
 4. Follow the prompts to complete the installation
